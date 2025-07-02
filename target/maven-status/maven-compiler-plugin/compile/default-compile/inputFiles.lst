@@ -14,6 +14,7 @@
 /home/runner/work/javatest/javatest/src/main/java/com/ecommerce/app/service/OrderService.java
 /home/runner/work/javatest/javatest/src/main/java/com/ecommerce/app/controller/AuthController.java
 /home/runner/work/javatest/javatest/src/main/java/com/ecommerce/app/controller/CategoryController.java
+/home/runner/work/javatest/javatest/src/main/java/com/ecommerce/app/controller/WebController.java
 /home/runner/work/javatest/javatest/src/main/java/com/ecommerce/app/dto/JwtResponse.java
 /home/runner/work/javatest/javatest/src/main/java/com/ecommerce/app/repository/CategoryRepository.java
 /home/runner/work/javatest/javatest/src/main/java/com/ecommerce/app/security/JwtUtils.java

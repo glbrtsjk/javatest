@@ -12,6 +12,7 @@ com/ecommerce/app/entity/Cart.class
 com/ecommerce/app/config/WebSecurityConfig.class
 com/ecommerce/app/controller/CategoryController.class
 com/ecommerce/app/dto/CreateOrderRequest.class
+com/ecommerce/app/controller/WebController.class
 com/ecommerce/app/entity/User$Role.class
 com/ecommerce/app/entity/Order$OrderStatus.class
 com/ecommerce/app/entity/Product.class
