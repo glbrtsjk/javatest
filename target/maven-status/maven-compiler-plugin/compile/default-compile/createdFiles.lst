@@ -1,0 +1,10 @@
+com/ecommerce/app/entity/Product.class
+com/ecommerce/app/entity/Category.class
+com/ecommerce/app/entity/CartItem.class
+com/ecommerce/app/EcommerceApplication.class
+com/ecommerce/app/entity/User.class
+com/ecommerce/app/entity/Cart.class
+com/ecommerce/app/entity/Order.class
+com/ecommerce/app/entity/OrderItem.class
+com/ecommerce/app/entity/User$Role.class
+com/ecommerce/app/entity/Order$OrderStatus.class
